@@ -1,7 +1,9 @@
 ### Welcome! 👋
 
 👤 My name is Antônio Pataro, you can know more about me on [my website](https://www.antoniopataro.dev).
+
 🌱 I’m currently learning NextJS and NodeJS;
+
 💬 Ask me about HTML, CSS, Javascript and React;
 
 <div style="display: inline_block"><br>
