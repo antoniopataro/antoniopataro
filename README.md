@@ -13,7 +13,7 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-#### Let's Connect!
+### Let's Connect!
 
 <p align="left">
 <a href="https://www.linkedin.com/in/antoniopataro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antônio Pataro" height="30" width="40" /></a>
