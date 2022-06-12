@@ -17,4 +17,9 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/antoniopataro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antônio Pataro" height="25" width="40" /></a>
+<a href="https://www.instagram.com/antoniopataro/">
+  <img align="left" alt="Antônio Pataro's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 </p>
+
+
