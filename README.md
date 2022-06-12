@@ -20,5 +20,7 @@
 <a href="https://www.instagram.com/antoniopataro/"><img align="center" alt="Antônio Pataro's Instagram" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 </p>
+
 -----
+
 ⚠️ Open to work! [RESUME](https://antoniopataro.notion.site/Ant-nio-Pataro-8baa7d3f636a4b67a631e04db007cbb0)
