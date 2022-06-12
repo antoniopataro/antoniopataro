@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **NextJS** and **NodeJS**;
 - 💬 Ask me about **HTML**, **CSS**, **Javascript** and **React**;
 
-### Technologies I use the most:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,5 +20,5 @@
 <a href="https://www.instagram.com/antoniopataro/"><img align="center" alt="Antônio Pataro's Instagram" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 </p>
-
+-----
 ⚠️ Open to work! [RESUME](https://antoniopataro.notion.site/Ant-nio-Pataro-8baa7d3f636a4b67a631e04db007cbb0)
