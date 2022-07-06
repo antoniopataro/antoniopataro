@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
 - 👤 My name is Antônio Pataro, you can know more about me on [my website](https://www.antoniopataro.dev).
-- 🌱 I’m currently learning **NodeJS**, **Express** and **MongoDB**;
-- 💬 Ask me about **HTML**, **CSS**, **Javascript**, **Typescript**, **React** and **NextJs**.
+- 🌱 I’m currently learning **React Native** and **Java** for curiosity;
+- 💬 Ask me about **NextJS**, **ReactJS**, **Typescript**, **Javascript** and the **MERN** stack.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
