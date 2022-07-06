@@ -17,12 +17,6 @@
 <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
 
-### Let's Connect!
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/antoniopataro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antônio Pataro" height="25" width="40" /></a>
-<a href="https://www.instagram.com/antoniopataro/"><img align="center" alt="Antônio Pataro's Instagram" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-<a href="https://www.youtube.com/channel/UC-L7leCzqLbmaAxtB1C9wyQ"><img align="center" alt="Antônio Pataro's Youtube Channel" height="40" width="40" src="https://www.freepnglogos.com/uploads/youtube-logo-icon-png-11.png" />
-<a href="https://www.twitch.tv/antoniopataro"><img align="center" alt="Antônio Pataro's Twitch Channel" height="30" width="30" src="https://www.freepnglogos.com/uploads/twitch-logo-transparent-png-20.png" />
-</a>
-</p>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopataro/)!
