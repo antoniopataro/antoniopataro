@@ -10,7 +10,7 @@
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ReactNative" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180788768-172f5d94-089b-48be-8f50-6173be326ed0.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180788768-172f5d94-089b-48be-8f50-6173be326ed0.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/174684058-3ca1e9ca-91cf-45d2-996a-44ca9a3d7e9a.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/176988429-07c56fda-a49d-4895-85ae-1cdb32f2a6b2.svg">
