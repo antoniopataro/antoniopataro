@@ -15,6 +15,7 @@
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Express" alt="Express" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/176988429-07c56fda-a49d-4895-85ae-1cdb32f2a6b2.svg">
   <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/176988576-fc827679-c20f-4d73-85c9-4fcd93d114a8.svg">
+  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/181013680-0dee12ff-f767-4040-a41c-4d85fc7d4ec2.svg">
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180787601-4a3f7a64-77dd-416f-9726-e95b54d58df6.svg">
   <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
