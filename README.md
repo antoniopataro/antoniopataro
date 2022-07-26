@@ -5,19 +5,19 @@
 - 💬 Ask me about **ReactJS**, **Typescript** and **whatever you need**.
 
 <div style="display: inline_block"><br>
-  <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" title="ReactJS" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="React Native" alt="React Native" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180788768-172f5d94-089b-48be-8f50-6173be326ed0.svg">
-  <img align="center" title="NextJS" alt="NextJS" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/174684058-3ca1e9ca-91cf-45d2-996a-44ca9a3d7e9a.svg">
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" title="Express" alt="Express" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/176988429-07c56fda-a49d-4895-85ae-1cdb32f2a6b2.svg">
-  <img align="center" title="MongoDB" alt="MongoDB" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/176988576-fc827679-c20f-4d73-85c9-4fcd93d114a8.svg">
-  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/181013680-0dee12ff-f767-4040-a41c-4d85fc7d4ec2.svg">
-  <img align="center" title="Python" alt="Python" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/180787601-4a3f7a64-77dd-416f-9726-e95b54d58df6.svg">
-  <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" title="HTML" alt="HTML" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181044759-dcf33c94-1a33-4247-aa71-e61fda4a030c.svg">
+  <img align="center" title="CSS" alt="CSS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045177-0d537333-ce43-4d05-842b-e573cf1c5a88.svg">
+  <img align="center" title="Javascript" alt="Javascript" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045156-87c8d141-3767-48bf-a2b5-3d882f308bb1.svg">
+  <img align="center" title="Typescript" alt="Typescript" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045174-aeefe104-3966-491c-8d95-23f43050dbd0.svg">
+  <img align="center" title="ReactJS" alt="ReactJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045172-a17b3a91-5442-4487-927e-0bd2920458b0.svg">
+  <img align="center" title="React Native" alt="React Native" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045173-33acd72c-077f-48be-a629-7172e84d6112.svg">
+  <img align="center" title="NextJS" alt="NextJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045161-7fb9fce5-a974-4c57-8770-084f35765ef6.svg">
+  <img align="center" title="NodeJS" alt="NodeJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045165-d54bb1c2-43da-46b1-a38b-661ff97a1b5b.svg">
+  <img align="center" title="Express" alt="Express" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045179-daeb6bd4-5b13-4346-b8b8-57595d6a9fd5.svg">
+  <img align="center" title="MongoDB" alt="MongoDB" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045158-2488b90b-171c-4999-9141-33f1f8a6696b.svg">
+  <img align="center" title="Git" alt="Git" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045152-8c4d755f-dc56-405c-a3c3-0cf5fe888eb7.svg">
+  <img align="center" title="Python" alt="Python" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045168-f5eabc2a-d76b-4982-81c4-62a8c05df0b3.svg">
+  <img align="center" title="Figma" alt="Figma" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045181-af2f3c3a-d62d-43ce-bf83-1dc59576f66f.svg">
 </div>
 
 ---
