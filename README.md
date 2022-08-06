@@ -12,6 +12,7 @@
   <img align="center" title="ReactJS" alt="ReactJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045172-a17b3a91-5442-4487-927e-0bd2920458b0.svg">
   <img align="center" title="React Native" alt="React Native" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045173-33acd72c-077f-48be-a629-7172e84d6112.svg">
   <img align="center" title="NextJS" alt="NextJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045161-7fb9fce5-a974-4c57-8770-084f35765ef6.svg">
+  <img align="center" title="Docker" alt="Docker" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/183230972-963593c1-a61b-4250-9266-92be14b8d5ab.svg">
   <img align="center" title="NodeJS" alt="NodeJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045165-d54bb1c2-43da-46b1-a38b-661ff97a1b5b.svg">
   <img align="center" title="Express" alt="Express" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045179-daeb6bd4-5b13-4346-b8b8-57595d6a9fd5.svg">
   <img align="center" title="MongoDB" alt="MongoDB" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045158-2488b90b-171c-4999-9141-33f1f8a6696b.svg">
