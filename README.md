@@ -34,7 +34,7 @@
   <a href="https://www.figma.com/" target="_blank">
   <img align="center" title="Figma" alt="Figma" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045181-af2f3c3a-d62d-43ce-bf83-1dc59576f66f.svg"></a>
   <a href="https://vuejs.org/" target="_blank">
-  <img align="center" alt="VueJs" title="VueJs" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/183668077-2b894457-e985-4cb3-976c-bbe8c3db0563.svg"></a>
+  <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/183668077-2b894457-e985-4cb3-976c-bbe8c3db0563.svg"></a>
   <a href="https://tailwindcss.com/" target="_blank">
   <img align="center" alt="TailwindCSS" title="TailwindCSS" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/183668264-c44f271e-4719-461f-8112-fee8e558cac0.svg"></a>
 </div>
