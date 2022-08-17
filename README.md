@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Back-End Development** and **Python** for short problem-solving;
 - 💬 Ask me about **ReactJS**, **Typescript** and **whatever you need**.
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
   <img align="center" title="HTML" alt="HTML" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181044759-dcf33c94-1a33-4247-aa71-e61fda4a030c.svg"></a>
   <a href="https://www.w3schools.com/css/" target="_blank">
