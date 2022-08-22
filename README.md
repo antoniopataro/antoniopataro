@@ -35,6 +35,8 @@
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/185008096-730b7d2b-2e85-4f96-87d6-38398e77477c.svg"></a>
   <a href="https://www.prisma.io/" target="_blank">
   <img align="center" title="Prisma" alt="Prisma" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/185008303-c8893e5a-2183-4cc6-9a5a-099958265650.svg"></a>
+  <a href="https://graphql.org/" target="_blank">
+  <img align="center" title="GraphQL" alt="GraphQL" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/185936639-b4736566-ba92-4113-994d-6b115ce5dcfb.svg"></a>
   <a href="https://git-scm.com/" target="_blank">
   <img align="center" title="Git" alt="Git" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045152-8c4d755f-dc56-405c-a3c3-0cf5fe888eb7.svg"></a>
   <a href="https://www.python.org/" target="_blank">
