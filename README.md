@@ -13,8 +13,6 @@
   <img align="center" title="Javascript" alt="Javascript" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045156-87c8d141-3767-48bf-a2b5-3d882f308bb1.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img align="center" title="Typescript" alt="Typescript" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045174-aeefe104-3966-491c-8d95-23f43050dbd0.svg"></a>
-  <a href="https://vitejs.dev/" target="_blank">
-      <img align="center" title="ViteJS" alt="ViteJS" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/182053707-047fc95d-6891-427b-9a98-065b20a25a30.svg"></a>
   <a href="https://vuejs.org/" target="_blank">
   <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://user-images.githubusercontent.com/87823281/183668077-2b894457-e985-4cb3-976c-bbe8c3db0563.svg"></a>
   <a href="https://reactjs.org/" target="_blank">
@@ -33,6 +31,8 @@
   <img align="center" title="MongoDB" alt="MongoDB" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/181045158-2488b90b-171c-4999-9141-33f1f8a6696b.svg"></a>
   <a href="https://www.postgresql.org/" target="_blank">
   <img align="center" title="PostgreSQL" alt="PostgreSQL" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/185008096-730b7d2b-2e85-4f96-87d6-38398e77477c.svg"></a>
+  <a href="https://www.mysql.com" target="_blank">
+  <img align="center" title="MySQL" alt="MySQL" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/191503146-71bae35e-8c47-4102-add4-c35cd7dfbea1.svg"></a>
   <a href="https://www.prisma.io/" target="_blank">
   <img align="center" title="Prisma" alt="Prisma" height="45" width="40" src="https://user-images.githubusercontent.com/87823281/185008303-c8893e5a-2183-4cc6-9a5a-099958265650.svg"></a>
   <a href="https://graphql.org/" target="_blank">
