@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-- 👤 My name is Antônio Pataro, you can know more about me on [my website](https://www.antoniopataro.dev).
-- 🌱 I’m currently learning **Back-End Development** and **Python** for short problem-solving;
-- 💬 Ask me about **ReactJS**, **Typescript** and **whatever you need**.
+- 👤 My name is **Antônio Pataro,** you can know more about me on [my website](https://www.antoniopataro.dev).
+- 🌱 I’m currently learning **Back-End Development + Cloud** and looking for new professional challenges;
+- 💬 Ask me about **ReactJS**, **NextJS**, **Typescript** or **whatever you need**.
 
 <div style="display: inline_block" align="center"><br>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -55,4 +55,4 @@
 
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopataro/)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopataro/) or take a look at some of my [videos!](https://www.youtube.com/channel/UC-L7leCzqLbmaAxtB1C9wyQ)
